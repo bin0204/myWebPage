@@ -1,0 +1,10 @@
+.mySelfPage {
+  text-align: center;
+  background-color: #2d2d30;
+  color: #fff;
+}
+#myFace {
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+}

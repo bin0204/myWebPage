@@ -24,9 +24,8 @@ h4 {
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
 }
-
-.container-fluid {
-    padding: 20px 50px;
+.jumbotron h4 {
+  color: #fff;
 }
 
 .social {
